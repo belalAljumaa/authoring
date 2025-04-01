@@ -16,7 +16,7 @@ Sie können hier [Github](https://help.github.com/ar) Document finden.
 Jump nach [Oben](#github-flavoured-markdown)
 
 ## Image
-![Pinguin](/Images/logo.png)
+![Pinguin](/images/logo.png)
 
 ## Emojis
 :bowtie:
